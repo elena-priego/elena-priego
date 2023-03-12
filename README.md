@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # 💫 About Me:
 - 🔭 I’m currently finishing a PhD in molecular bioscience in Madrid (Spain)
 - 🌱 I’m currently learning more about data science and improving my data visualization
