@@ -1,5 +1,6 @@
 ### 💫 About Me:
-- 🔭 I’m currently finishing a PhD in molecular bioscience in Madrid (Spain)
+- 🔭 Scientist at National Center of Cardiovascular Diseases (Madrid)
+- 👩‍🎓 PhD in Molecular Bioscience in Madrid (Spain)
 - 🌱 I’m currently learning more about data science and improving my data visualization
 
 🌐 **Socials:**
