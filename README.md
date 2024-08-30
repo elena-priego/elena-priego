@@ -1,7 +1,7 @@
 ### 💫 About Me:
-- 🔭 Scientist at National Center of Cardiovascular Diseases (Madrid)
-- 👩‍🎓 PhD in Molecular Bioscience in Madrid (Spain)
-- 🌱 I’m currently learning more about data science and improving my data visualization
+- 💻 Data Scientist at Accenture, focusing on AI and business intelligence in healthcare.
+- 👩‍🎓 PhD in Molecular Bioscience with 8+ years of research experience.
+- 📈 Skilled in data structuring, visualization, statistical analysis, and machine learning.
 
 🌐 **Socials:**
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/elena.priego) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/elena-priego) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/elenapriegosaiz) 
